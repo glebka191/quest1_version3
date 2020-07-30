@@ -20,6 +20,7 @@ public class Transfer {
         for (Map.Entry<String, Department> pr : Department.getAllDepartment().entrySet()){
             Distribution.redistribution(pr.getValue());
         }
+        System.out.println(Distribution.result.toString());
 
         try {
             writer.write(Distribution.result.toString());

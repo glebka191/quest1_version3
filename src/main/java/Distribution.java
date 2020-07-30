@@ -1,7 +1,4 @@
 
-import java.io.BufferedWriter;
-import java.io.FileWriter;
-import java.io.IOException;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;
@@ -16,24 +13,28 @@ public class Distribution {
 
 
     public static void distributionValidation(String allLine) throws ValidationException {
-        String[] arrayData = allLine.split(", ");
-        if (arrayData.length != 3) {
-            throw new ValidationException("В строке больше или меньше 3-х элементов");
-        }
-        if (arrayData[0].isEmpty() || arrayData[0].matches(".*[\\d^!@#$%&*]+.*")) {
-            throw new ValidationException("Некорректно указаны ФИО");
+        try {
+            String[] arrayData = allLine.split(", ");
+            if (arrayData.length != 3) {
+                throw new ValidationException("В строке больше или меньше 3-х элементов");
+            }
+            if (arrayData[0].isEmpty() || arrayData[0].matches(".*[\\d^!@#$%&*]+.*")) {
+                throw new ValidationException("Некорректно указаны ФИО");
 
-        }
-        if (arrayData[1].isEmpty() || arrayData[1].matches(".*[\\d^!@#$%&*]+.*")) {
-            throw new ValidationException("Некорректно указан департамент");
-        }
-        if (arrayData[2].isEmpty() || arrayData[2].matches("[^0-9]*")) {
-            throw new ValidationException("Некорректная зарплата");
-        } else {
-            String name = arrayData[0].toUpperCase();
-            String depart = arrayData[1].toUpperCase();
-            BigDecimal salary = new BigDecimal(arrayData[2]);
-            distributionByDepartment(name, depart, salary);
+            }
+            if (arrayData[1].isEmpty() || arrayData[1].matches(".*[\\d^!@#$%&*]+.*")) {
+                throw new ValidationException("Некорректно указан департамент");
+            }
+            if (arrayData[2].isEmpty() || arrayData[2].matches("[\\D^!@#$%&*]+.*")) {
+                throw new ValidationException("Некорректная зарплата");
+            } else {
+                String name = arrayData[0].toUpperCase();
+                String depart = arrayData[1].toUpperCase();
+                BigDecimal salary = new BigDecimal(arrayData[2]);
+                distributionByDepartment(name, depart, salary);
+            }
+        }catch (NumberFormatException e){
+            System.out.println("Некорректно указано значение зарплаты");
         }
     }
 
