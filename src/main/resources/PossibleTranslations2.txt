@@ -1,0 +1,191 @@
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 7200.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2529.11. 
+Victor Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 7000.
+Victorrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 3000.
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 4000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 5600.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2345.25. 
+Victor Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 7000.
+Victorrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 3000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 5100.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2470.25. 
+Victor Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 7000.
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 4000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 4733.34. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2251.71. 
+Victor Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 7000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 7000.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2551.33. 
+Victorr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 7200.
+Victorrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 3000.
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 4000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 5500.01. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2370.25. 
+Victorr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 7200.
+Victorrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 3000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 5000.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2495.25. 
+Victorr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 7200.
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 4000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 4666.67. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2280.29. 
+Victorr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 7200.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 4800.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 1793.67. 
+Victorrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 3000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 5066.67. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2108.86. 
+Victorrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 3000.
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 4000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 7100.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 1970.25. 
+Victorrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 3000.
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 4000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 6066.67. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 1680.29. 
+Victorrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 3000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 4550.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 1960.33. 
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 4000.
+Откуда: SMM Куда: Call-Center 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 5733.34. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 1823.14. 
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 4000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Call-Center. Зарплата: 1000.
+Откуда: SMM Куда: Prodazhi 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 5100.00. 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 3996.25. 
+Victor Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 7000.
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 4000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 1000.
+Откуда: SMM Куда: Prodazhi 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 4733.34. 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 3995.71. 
+Victor Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 7000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 1000.
+Откуда: SMM Куда: Prodazhi 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 5000.00. 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4021.25. 
+Victorr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 7200.
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 4000.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 1000.
+Откуда: SMM Куда: Prodazhi 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 4666.67. 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4024.29. 
+Victorr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 7200.
+Victorrrrr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 1000.
+Откуда: SMM Куда: Prodazhi 
+ Имя департамента: SMM. Текущая средняя зарплата 4440. Средняя зарплата после перевода: 4550.00. 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 3995.00. 
+Victorrrr Ivanov Vasilevich Откуда: SMM. Куда: Prodazhi. Зарплата: 4000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4320.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2601.33. 
+Vasya Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4300.
+Vasyaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4000.
+Vasyaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4350.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4335.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2382.75. 
+Vasya Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4300.
+Vasyaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4000.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4350.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2598.00. 
+Vasya Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4300.
+Vasyaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4000.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Vasyaaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4320.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4160.01. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2426.50. 
+Vasya Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4300.
+Vasyaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4350.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4000.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2636.89. 
+Vasya Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4300.
+Vasyaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4350.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Vasyaaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4320.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4223.34. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2151.71. 
+Vasya Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4300.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4175.01. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2422.75. 
+Vasya Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4300.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Vasyaaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4320.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4310.01. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2389.00. 
+Vasyaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4000.
+Vasyaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4350.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4300.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2603.56. 
+Vasyaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4000.
+Vasyaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4350.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Vasyaaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4320.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4323.34. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2108.86. 
+Vasyaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4000.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4325.01. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2385.25. 
+Vasyaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4000.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Vasyaaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4320.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4206.67. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2158.86. 
+Vasyaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4350.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4150.00. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2429.00. 
+Vasyaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4350.
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Vasyaaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4320.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4242.50. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 1793.67. 
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Откуда: Prodazhi Куда: Call-Center 
+ Имя департамента: Prodazhi. Текущая средняя зарплата 3994. Средняя зарплата после перевода: 4216.67. 
+ Имя департамента: Call-Center. Текущая средняя зарплата 1552.4. Средняя зарплата после перевода: 2154.57. 
+Vasyaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 3000.
+Vasyaaaaaa Ivanov Victorovich Откуда: Prodazhi. Куда: Call-Center. Зарплата: 4320.
